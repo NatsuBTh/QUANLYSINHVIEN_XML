@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SINH_VIEN>
+  <SINHVIEN ID="13161651651">
+    <MSSV>1510010010</MSSV>
+    <NAME>Nguyễn Trung Hiếu</NAME>
+    <SEX>Nam</SEX>
+    <DATE>26/06/1996</DATE>
+    <CLASS>15TH</CLASS>
+    <INDUSTRY>Công Nghệ Thông Tin</INDUSTRY>
+  </SINHVIEN>
+  <SINHVIEN ID="163201835925">
+    <MSSV>123467999</MSSV>
+    <NAME>Nguyễn B</NAME>
+    <SEX>Nam</SEX>
+    <DATE>22/06/1989</DATE>
+    <CLASS>15KK</CLASS>
+    <INDUSTRY>Điện - Điện Tử</INDUSTRY>
+  </SINHVIEN>
+  <SINHVIEN ID="163201845654">
+    <MSSV>1234567890</MSSV>
+    <NAME>Lê c</NAME>
+    <SEX>Nam</SEX>
+    <DATE>24/06/1999</DATE>
+    <CLASS>12RF</CLASS>
+    <INDUSTRY>Điện - Điện Tử</INDUSTRY>
+  </SINHVIEN>
+</SINH_VIEN>
